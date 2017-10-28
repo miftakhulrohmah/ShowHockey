@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ShowHockey</string>
+    <string name="action_settings">setting</string>
 </resources>
